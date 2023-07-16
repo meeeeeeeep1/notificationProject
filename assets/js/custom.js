@@ -12,3 +12,4 @@
 control.simmessages.onReceived("notify",(msg: Buffer) => {
 console.log(msg.toBase64())
 }
+)
